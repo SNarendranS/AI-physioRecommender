@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+/* Footer stays at bottom when content is small */
+html, body {
+  height: 100%;
+  margin: 0;
+} 
